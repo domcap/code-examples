@@ -15,7 +15,7 @@
     "next": "^7.0.2",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "serialize-javascript": ">=2.1.1"
+    "serialize-javascript": ">=3.1.0"
   },
   "license": "ISC",
   "devDependencies": {
